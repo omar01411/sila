@@ -450,6 +450,7 @@
   "new-password": "كلمة المرور الجديدة",
   "confirm-password": "تأكيد كلمة المرور",
   "passwords-do-not-match": "كلمات المرور غير متطابقة",
+  "new-password-must-differ-from-current-password": "يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور الحالية",
   "please-fill-all-fields": "يرجى ملء جميع الحقول",
   "password-changed-successfully": "تم تغيير كلمة المرور بنجاح",
   "failed-to-change-password": "فشل في تغيير كلمة المرور",

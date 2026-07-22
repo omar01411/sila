@@ -454,6 +454,7 @@
   "new-password": "New Password",
   "confirm-password": "Confirm Password",
   "passwords-do-not-match": "Passwords do not match",
+  "new-password-must-differ-from-current-password": "New password must be different from current password",
   "please-fill-all-fields": "Please fill all fields",
   "password-changed-successfully": "Password changed successfully",
   "failed-to-change-password": "Failed to change password",
