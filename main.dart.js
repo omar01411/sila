@@ -171657,7 +171657,7 @@ if(j!=null){i=J.a2(o.as,l).a
 j.a=i==null?0:i}}o.Vb()
 o.b9(new A.jQ())
 o.ayu()
-if(a6.length!==0||a1)A.yL(A.O(["ToUserName",A.r(o.ay.w.b)+","+$.bA,"ChatType","1"],f,e))
+if(a6.length!==0&&!a1)A.yL(A.O(["ToUserName",A.r(o.ay.w.b)+","+$.bA,"ChatType","1"],f,e))
 q=1
 s=5
 break
@@ -174113,7 +174113,7 @@ o.aX7(i.cs(),l,k,A.r(n)+"@"+A.r(m))}}J.ww(p.ax)
 case 1:return A.j(q,r)}})
 return A.k($async$he,r)},
 alj(a,b){var s,r,q,p,o,n,m
-if(a.length!==0||b){s=this.akg(this.ay)
+if(a.length!==0&&!b){s=this.akg(this.ay)
 r=$.bA
 q=r+","
 for(p=s.length,o=0;o<p;++o){n=s[o].b.b
@@ -178330,7 +178330,7 @@ I2(a){var s=A.X(a).i("a9<1,cH>")
 s=A.J(new A.a9(a,new A.bEM(),s),s.i("a1.E"))
 return s},
 alk(a,b,c,d,e,f){var s,r,q,p,o,n,m,l
-if(a.length!==0||f){s=$.bA+","
+if(a.length!==0&&!f){s=$.bA+","
 for(r=this.I2(this.dy),q=r.length,p=$.bA,o=s,n=0;n<q;++n){m=r[n].b.b
 l=m==null?null:m.toLowerCase()
 if(l!==p.toLowerCase()){m=A.r(m)+","
@@ -183763,7 +183763,7 @@ Pn(a){var s=A.X(a).i("a9<1,cH>")
 s=A.J(new A.a9(a,new A.bnP(),s),s.i("a1.E"))
 return s},
 Ko(a,b,c,d){var s,r,q,p,o,n,m,l
-if(a.length!==0||d){s=$.bA+","
+if(a.length!==0&&!d){s=$.bA+","
 for(r=this.Pn(this.CW),q=r.length,p=$.bA,o=s,n=0;n<q;++n){m=r[n].b.b
 l=m==null?null:m.toLowerCase()
 if(l!==p.toLowerCase()){m=A.r(m)+","
@@ -186298,7 +186298,7 @@ a_z(a){var s=A.X(a).i("a9<1,cH>")
 s=A.J(new A.a9(a,new A.bCK(),s),s.i("a1.E"))
 return s},
 Ko(a,b,c,d){var s,r,q,p,o,n,m,l
-if(a.length!==0||d){s=$.bA+","
+if(a.length!==0&&!d){s=$.bA+","
 for(r=this.a_z(this.CW),q=r.length,p=$.bA,o=s,n=0;n<q;++n){m=r[n].b.b
 l=m==null?null:m.toLowerCase()
 if(l!==p.toLowerCase()){m=A.r(m)+","
