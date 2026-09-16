@@ -564,5 +564,6 @@
   "Starter": "Starter",
   "Started Date": "Started Date",
   "Are you sure you want to start this ticket?": "Are you sure you want to start this ticket?",
-  "Scheduled": "Scheduled"
+  "Scheduled": "Scheduled",
+  "notGroupMember": "You can't send messages to this group because you're no longer a member"
 }

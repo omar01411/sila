@@ -561,5 +561,6 @@
   "Starter": "المبتدئ",
   "Started Date": "تاريخ البدء",
   "Are you sure you want to start this ticket?": "هل أنت متأكد أنك تريد بدء هذه التذكرة؟",
-  "Scheduled": "مجدول"
+  "Scheduled": "مجدول",
+  "notGroupMember": "لا يمكنك إرسال رسائل إلى هذه المجموعة لأنك لم تعد عضوًا فيها"
 }
