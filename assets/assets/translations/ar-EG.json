@@ -130,6 +130,7 @@
   "theme_switch": "تغيير السمة",
   "language_switch": "تغيير اللغة",
   "logout": "تسجيل الخروج",
+  "loggingOut": "جارٍ تسجيل الخروج...",
   "are-you-sure-you-want-to-log-out?": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
   "actions": "الإجراءات",
   "user-activated": "تم تفعيل المستخدم",

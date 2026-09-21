@@ -131,6 +131,7 @@
   "theme_switch": "Theme Switch",
   "language_switch": "Language Switch",
   "logout": "Logout",
+  "loggingOut": "Logging out...",
   "are-you-sure-you-want-to-log-out?": "Are you sure you want to log out?",
   "actions": "Actions",
   "user-activated": "User activated",
