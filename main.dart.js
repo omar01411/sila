@@ -64462,7 +64462,7 @@ $S:5}
 A.czV.prototype={
 $1(a){var s=A.hD().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/af7e796e161ae0bb1ff0758c71a7105418bd9ded/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/deb287481e3ce9468f3434937ced4240a70539ca/":s)+a},
 $S:36}
 A.aqu.prototype={
 gF(a){var s=this.a
